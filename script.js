@@ -3,11 +3,12 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'Devid',
       pfp: 'pfps/devid.png',
-      url: ''
+      url: 'https://devid.turbopeople.site'
     },
     {
       name: 'MayMay',
       pfp: 'pfps/may.png',
+      url: 'https://maymay.mistium.com'
     },
     {
       name: 'MiloDev123',
@@ -20,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'Juniper',
       pfp: 'pfps/juniper.png',
+      url: 'https://juniper.turbopeople.site'
     }
   ]
 
