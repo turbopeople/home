@@ -22,6 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Juniper',
       pfp: 'pfps/juniper.png',
       url: 'https://juniper.turbopeople.site'
+    },
+    {
+      name: 'Gen1x',
+      pfp: 'pfps/gen1x.png',
+      url: 'https://gen1x.nekoweb.org'
     }
   ]
 
